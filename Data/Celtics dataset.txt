@@ -1,0 +1,6 @@
+game;starters;bench;team3pt;celtics_def;opponent_off;opponent_def
+celtics-knicks;113;19;47.5;109;109;132
+celtics-wizards;78;44;37.8;109;102;122
+celtics-pistons;102;22;45.8;109;109.33;117.33
+celtics-bucks;89;30;38.3;108;114;119
+celtics-pacers;101;31;33.3;135;115.75;120.2
